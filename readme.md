@@ -11,5 +11,5 @@
 - Capítulo 8: ✅
 - Capítulo 9: ✅
 - Capitulo 10: ✅
-- Capítulo 11: ⌛
+- Capítulo 11: ✅
 - Capitulo 12: ⌛
