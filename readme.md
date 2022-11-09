@@ -15,7 +15,7 @@
 - Capitulo 12: ✅
 
 ## **Módulo 2:**
-- Capítulo 13: ⌛
+- Capítulo 13: ✅
 - Capítulo 14: ⌛
 - Capítulo 15: ⌛
 - Capítulo 16: ⌛
