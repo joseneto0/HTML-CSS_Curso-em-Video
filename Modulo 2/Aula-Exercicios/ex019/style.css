@@ -1,0 +1,50 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Sono:wght@200;300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+
+/*
+  ID -> # (pode apenas um por arquivo)
+  CLASS -> . (pode vários elementos)
+*/
+body {
+    background-color: aliceblue;
+    font-family: 'Sono', sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    color: #E34E49;
+}
+
+h1#principal {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    color: #132EA8;
+}
+
+h2 {
+    color: #165B94;
+}
+
+p {
+    font-weight: 500;
+}
+
+.basico {
+    color: #3357F5;
+}
+
+.intermediario {
+    color: #63AB22;
+}
+
+.avancado {
+    color: #F5744C;
+}
+
+.destaque {
+    font-weight: bolder;
+    text-align: center;
+    font-size: 2em;
+}

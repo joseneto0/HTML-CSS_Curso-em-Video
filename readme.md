@@ -17,6 +17,6 @@
 ## [**Módulo 2:**](https://github.com/joseneto0/HTML-CSS_Curso-em-Video/tree/main/Modulo%202)
 - Capítulo 13: ✅
 - Capítulo 14: ✅
-- Capítulo 15: ⌛
+- Capítulo 15: ✅
 - Capítulo 16: ⌛
 - Capítulo 17: ⌛
