@@ -18,5 +18,5 @@
 - Capítulo 13: ✅
 - Capítulo 14: ✅
 - Capítulo 15: ✅
-- Capítulo 16: ⌛
-- Capítulo 17: ⌛
+- Capítulo 16: ✅
+- Capítulo 17: ✅
